@@ -1,0 +1,31 @@
+.container{
+    background-color: rgb(250, 231, 250);
+    display: flex;
+    justify-content: center;
+    width: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+.box1{
+    width:380px;
+    height: 400px;
+    padding-left: 20px;
+    background-color: white;
+    border-bottom: solid;
+    margin-left: 40px;
+    border-radius: 5px;
+}
+.underline{
+    width: 10px;
+    color: aqua;
+}
+.l2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 25px;
+}
+.l4{
+    margin-top: 50px ;
+}
